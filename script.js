@@ -21,7 +21,7 @@ function generatePassword() {
   var includeUppercase = confirm("Do you want to include uppercase characters?");
   var includeNumeric = confirm("Do you want to include numeric characters?");
   var includeSpecial = confirm("Do you want to include special characters?");
-  var thankYouMessage = confirm ("Thank you for choosing Jake's Password Services!")
+  var thankYouMessage = confirm ("Thank you for choosing Josh's Password Services!")
 
   console.log(thankYouMessage)
 
